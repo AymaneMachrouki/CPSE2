@@ -1,0 +1,4 @@
+rectangle (480, 104) (200, 200) blue
+line (860.5, 355) (5, 100) red
+circle (624, 377) green 30
+picture (289, 357) (100, 100) lubuntu.png
